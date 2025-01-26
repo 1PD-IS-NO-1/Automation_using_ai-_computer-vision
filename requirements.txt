@@ -1,0 +1,7 @@
+cvzone
+opencv-python
+numpy
+mediapipe
+PyMuPDF
+streamlit
+python-pptx
