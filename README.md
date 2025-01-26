@@ -4,3 +4,9 @@
 💞️ I’m looking to collaborate on ... Data science,Gen ai field
 📫 How to reach me ...priyanshudhaked00@gmail.com
 ⚡ Fun fact: ... Cricket, Badmintom
+
+
+⚡Travel_planner web link -https://prompt-3ckv7crqbgk7ngh3haxqqi.streamlit.app/
+
+
+Automation in Presentation is comming soon....👀👀👀👋👋👋👋👋👋
